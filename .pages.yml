@@ -1,0 +1,180 @@
+# Editor del sitio (Pages CMS ¬∑ https://app.pagescms.org)
+# Define qu√© se puede editar y c√≥mo se ve el formulario. Roc√≠o no necesita tocar este archivo.
+
+media:
+  input: img
+  output: /img
+  rename: safe
+  categories: [image]
+
+content:
+  - name: proyectos
+    label: Proyectos
+    type: file
+    path: data/projects.json
+    format: json
+    fields:
+      - name: projects
+        label: Proyectos
+        description: "Arrastra para cambiar el orden. El primero de la lista aparece primero en la portada."
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{title} ¬∑ {year}"
+        fields:
+          - name: title
+            label: T√≠tulo
+            type: string
+            required: true
+          - name: year
+            label: A√±os
+            type: string
+            description: "Ej. 2025 o 2020‚Äì2023"
+          - name: place
+            label: Lugar
+            type: string
+          - name: cats
+            label: T√©cnicas
+            type: select
+            description: "Define qu√© hilos de colores de la portada pasan por este proyecto."
+            options:
+              multiple: true
+              values:
+                - { name: textil, label: Textil }
+                - { name: escultura, label: Escultura y cer√°mica }
+                - { name: fotografia, label: Fotograf√≠a }
+                - { name: instalacion, label: Instalaci√≥n }
+                - { name: video, label: Video y acci√≥n }
+          - name: cover
+            label: Imagen de portada
+            type: image
+            description: "Si la dejas vac√≠a se usa la primera imagen de la primera pieza."
+          - name: text
+            label: Texto del proyecto
+            type: text
+            description: "Separa los p√°rrafos con una l√≠nea en blanco. El primero se muestra m√°s grande."
+          - name: facts
+            label: Exposici√≥n y cr√©ditos
+            type: text
+            description: "Un dato por p√°rrafo (l√≠nea en blanco entre ellos)."
+          - name: hidden
+            label: Ocultar del sitio
+            type: boolean
+          - name: slug
+            label: Direcci√≥n web
+            type: string
+            pattern: "^[a-z0-9-]*$"
+            description: "Parte final del enlace. Puedes dejarlo vac√≠o: se crea desde el t√≠tulo. No lo cambies una vez publicado."
+          - name: pieces
+            label: Piezas
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{title} {year}"
+            fields:
+              - name: title
+                label: T√≠tulo de la pieza
+                type: string
+                description: "D√©jalo vac√≠o si el proyecto es una sola obra."
+              - name: subtitle
+                label: Subt√≠tulo o traducci√≥n
+                type: string
+              - name: medium
+                label: T√©cnica
+                type: string
+              - name: size
+                label: Medidas
+                type: string
+                description: "Ej. 69 √ó 109 cm"
+              - name: duration
+                label: Duraci√≥n
+                type: string
+                description: "Solo para video. Ej. 5:39 min"
+              - name: place
+                label: Lugar
+                type: string
+                description: "Vac√≠o = usa el lugar del proyecto."
+              - name: year
+                label: A√±o
+                type: string
+              - name: text
+                label: Texto de la pieza
+                type: text
+              - name: video
+                label: Video de YouTube
+                type: string
+                description: "Pega el enlace de YouTube. La primera imagen de la pieza ser√° la portada del video."
+              - name: video_label
+                label: Texto del bot√≥n de video
+                type: string
+                description: "Ej. Ver video, Ver registro"
+              - name: images
+                label: Im√°genes
+                type: object
+                description: "Arrastra para ordenar. Fotos JPG, idealmente de m√°ximo 2500 px de lado."
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "Imagen {index} {cap}"
+                fields:
+                  - name: src
+                    label: Imagen
+                    type: image
+                    required: true
+                  - name: cap
+                    label: Pie de foto
+                    type: string
+                    description: "Opcional. Ej. Detalle"
+
+  - name: sitio
+    label: Bio y contacto
+    type: file
+    path: data/site.json
+    format: json
+    fields:
+      - name: lede_bold
+        label: "Portada: primera frase (en negrita)"
+        type: string
+      - name: lede
+        label: "Portada: descripci√≥n"
+        type: text
+      - name: bio_intro
+        label: "Bio: p√°rrafo destacado"
+        type: text
+      - name: bio
+        label: "Bio: resto del texto"
+        type: text
+        description: "Separa los p√°rrafos con una l√≠nea en blanco."
+      - name: cv
+        label: Exposiciones y proyectos
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{year} ¬∑ {label}"
+        fields:
+          - name: year
+            label: A√±o
+            type: string
+          - name: label
+            label: T√≠tulo
+            type: string
+          - name: text
+            label: Detalle
+            type: string
+            description: "Ej. exposici√≥n individual, Galer√≠a Bech, Santiago"
+          - name: project
+            label: Enlazar al proyecto (direcci√≥n web)
+            type: string
+            description: "Opcional. Ej. la-trampa"
+      - name: email
+        label: Correo
+        type: string
+      - name: instagram
+        label: Usuario de Instagram
+        type: string
+      - name: youtube
+        label: Enlace al canal de YouTube
+        type: string
