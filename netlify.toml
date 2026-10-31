@@ -1,0 +1,9 @@
+# Sitio estático: no hay paso de compilación.
+[build]
+  publish = "."
+
+# Los datos se editan desde /admin: siempre servir la versión más reciente.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "no-cache"

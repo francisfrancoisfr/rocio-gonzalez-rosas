@@ -1,0 +1,689 @@
+{
+  "projects": [
+    {
+      "slug": "el-lenguaje-de-la-esquirla",
+      "title": "El lenguaje de la esquirla",
+      "year": "2025",
+      "place": "Ciudad de México",
+      "cats": [
+        "textil",
+        "instalacion"
+      ],
+      "cover": "/img/esquirla-02.jpg",
+      "text": "El lenguaje de la esquirla es una exploración textil que aborda diferentes perspectivas de la cordillera de los Andes y otros yacimientos minerales, concibiéndolos como vientres que contienen materias, memorias y saberes heredados.",
+      "facts": "Exposición individual, La Verdi, Santa María la Ribera, Ciudad de México, 2025.",
+      "pieces": [
+        {
+          "title": "Voltajes de la cordillera",
+          "medium": "Bordado sobre saco de yute",
+          "size": "69 × 109 cm",
+          "year": "2025",
+          "text": "En esta pieza se condensan aspectos de carácter autobiográfico y temas que están presentes en toda mi obra. Por una parte, se muestra una versión de la cordillera de los Andes inspirada en los viajes de ida y vuelta que realizo a Chile, mi país de origen. Fue bordada sobre un saco de yute, sin un patrón de dibujo previamente marcado, con hilos y lanas de múltiples colores y texturas que se agregaron de manera gradual, haciendo combinaciones cromáticas intuitivas durante el proceso. Además, el saco de yute refiere a la tradición arpillera chilena, un arte popular relacionado a la memoria histórica de mi país.\n\nPor otra parte, la cordillera representa la naturaleza fértil y las riquezas tanto espirituales como energéticas que hay en su geografía, que, en su contraparte, son saqueadas con fines económicos, despojándola de su importancia ritual para las culturas ancestrales que se han desarrollado a sus faldas, la han honrado desde hace siglos y se han maravillado con su presencia colosal.",
+          "images": [
+            {
+              "src": "/img/esquirla-01.jpg"
+            },
+            {
+              "src": "/img/esquirla-02.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/esquirla-03.jpg",
+              "cap": "Detalle"
+            }
+          ]
+        },
+        {
+          "title": "Al interior de las cuevas la luz cae vertical",
+          "medium": "Bordado sobre saco de yute",
+          "size": "30 × 30 cm",
+          "year": "2025",
+          "text": "Es un pequeño bordado que funciona como contraplano para la pieza Voltajes de la cordillera. Si bien esta última muestra la verticalidad de las montañas cordilleranas de manera ascendente, en el caso de la pieza de menor formato se observan cordones puntiagudos que caen desde su extremo superior. Aquí la representación es la vida oculta al interior de las montañas, con sus estalactitas, brillos y cristales.",
+          "images": [
+            {
+              "src": "/img/esquirla-04.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Vienen y van: se tuercen, se enredan, nunca terminan ni comienzan",
+          "medium": "Bordado sobre saco de yute",
+          "size": "30 × 30 cm",
+          "year": "2025",
+          "text": "Es un bordado realizado de manera casi automática: una especie de improvisación textil, en la que he intentado representar las energías, dimensiones y planos que escapan al ojo humano, pero que sin embargo forman parte de nuestro universo y coexisten con nosotros. Junto con eso, la pieza funciona como un conector temático que introduce a la instalación Sistemas de invocación.",
+          "images": [
+            {
+              "src": "/img/esquirla-05.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Sistemas de invocación",
+          "medium": "Instalación",
+          "size": "200 × 300 × 100 cm",
+          "year": "2025",
+          "text": "Sistemas de invocación es una instalación conformada por una variedad de «conectores textiles», realizados con la técnica de tejido en espiral sobre canalizadores para cables eléctricos tubulares y espirales, que en sus extremos están unidos a materiales rocosos, minerales y florales. La mixtura de estos elementos orgánicos e inorgánicos refiere al capitalismo global que se sustenta en la explotación indiscriminada de recursos naturales y que ha roto el conocimiento ancestral y la relación espiritual con nuestros ecosistemas.\n\nPor esa razón, la obra se presenta como un portal hacia otros mundos, enmarcado entre láminas refractantes que generan una imagen espejo, alargan la longitud de los «conectores» y posibilitan la comunicación con fuerzas omnipresentes. De esta manera, la instalación es un sistema de invocación de conocimientos perdidos que reclaman por ser recuperados y que encuentra su fuerza en las energías y propiedades de las piedras; en el tejido en espiral sobre tubos inspirados en trutrukas mapuche; y también en formas espirales que conectan con el pasado y se extienden hacia el futuro.",
+          "images": [
+            {
+              "src": "/img/esquirla-06.jpg"
+            },
+            {
+              "src": "/img/esquirla-07.jpg"
+            },
+            {
+              "src": "/img/esquirla-08.jpg"
+            },
+            {
+              "src": "/img/esquirla-09.jpg"
+            },
+            {
+              "src": "/img/esquirla-10.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Componiendo la esquirla",
+          "medium": "Sesión radial colectiva con Radio Mudasabana",
+          "year": "2025",
+          "text": "Sesión de radio colectiva realizada en La Verdi para el cierre de la exposición.",
+          "video": "https://www.youtube.com/watch?v=5nktOEOOJwQ",
+          "video_label": "Escuchar un fragmento del programa",
+          "images": [
+            {
+              "src": "/img/esquirla-11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "aqui-es-un-paisaje-que-viaja",
+      "title": "Aquí, es un paisaje que viaja",
+      "year": "2022–2024",
+      "place": "México y Chile",
+      "cats": [
+        "textil"
+      ],
+      "cover": "/img/paisaje-01.jpg",
+      "text": "Aquí, es un paisaje que viaja es una obra colaborativa y procesual que se inicia a fines del año 2022 y que continúa hasta el presente, en la que, bajo las ideas de «estado de flujo» y comunidad, se construye un textil grupal por medio de diversas sesiones de bordado colectivo.\n\nEn estas sesiones no existen patrones que se traspasen a la tela, ni ideas preconcebidas respecto a los motivos a representar, sino que se explora la idea de la improvisación, lo no figurativo y la convivencia mutua.\n\nHasta la fecha se han realizado numerosas sesiones de bordado grupal, tanto en México como en Chile, con la finalidad de compartir y saturar la tela.",
+      "pieces": [
+        {
+          "medium": "Textil, bordado colectivo sobre organza",
+          "size": "145 × 500 cm",
+          "place": "Ciudad de México",
+          "year": "2022–2024",
+          "images": [
+            {
+              "src": "/img/paisaje-01.jpg"
+            },
+            {
+              "src": "/img/paisaje-02.jpg"
+            },
+            {
+              "src": "/img/paisaje-03.jpg"
+            },
+            {
+              "src": "/img/paisaje-04.jpg"
+            },
+            {
+              "src": "/img/paisaje-05.jpg"
+            },
+            {
+              "src": "/img/paisaje-06.jpg"
+            },
+            {
+              "src": "/img/paisaje-07.jpg"
+            },
+            {
+              "src": "/img/paisaje-08.jpg"
+            },
+            {
+              "src": "/img/paisaje-09.jpg"
+            },
+            {
+              "src": "/img/paisaje-10.jpg"
+            },
+            {
+              "src": "/img/paisaje-11.jpg"
+            },
+            {
+              "src": "/img/paisaje-12.jpg"
+            },
+            {
+              "src": "/img/paisaje-13.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-14.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-15.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-16.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-17.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-18.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-19.jpg",
+              "cap": "Sesión de bordado colectivo"
+            },
+            {
+              "src": "/img/paisaje-20.jpg"
+            },
+            {
+              "src": "/img/paisaje-21.jpg"
+            },
+            {
+              "src": "/img/paisaje-22.jpg"
+            },
+            {
+              "src": "/img/paisaje-23.jpg"
+            },
+            {
+              "src": "/img/paisaje-24.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "antimonumento",
+      "title": "Antimonumento",
+      "year": "2020–2023",
+      "place": "Ciudad de México",
+      "cats": [
+        "escultura",
+        "textil",
+        "video"
+      ],
+      "cover": "/img/antimonumento-01.jpg",
+      "text": "Antimonumento es una obra realizada entre los años 2020 y 2022 que combina piezas cerámicas y textiles, mediante las cuales abordo diversas violencias que amenazan a mujeres, disidencias, pueblos indígenas y entornos naturales de Latinoamérica.\n\nSon piezas que han sido creadas desde mi subjetividad y me he inspirado libremente en consignas, imágenes, rayados y sucesos ocurridos en los últimos años en México y Chile en contextos de disconformidad social. Así, abarco conceptos como ecocidio y feminicidio empresarial de manera simbólica y por medio de una estética barroca que toma préstamos de las arquitecturas coloniales, el mapudungún, las pintas sobre monumentos y la estética de guerra para plantear respuestas frente a los numerosos flagelos que afectan a miles de comunidades en los territorios colonizados de nuestro continente.",
+      "pieces": [
+        {
+          "title": "No un ángel (Feminicidio Monumenta)",
+          "medium": "Escultura en cerámica",
+          "size": "70 × 40 × 30 cm",
+          "year": "2020",
+          "images": [
+            {
+              "src": "/img/antimonumento-01.jpg"
+            },
+            {
+              "src": "/img/antimonumento-02.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-03.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-04.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-05.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-06.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-07.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-08.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-09.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-10.jpg",
+              "cap": "Detalle"
+            }
+          ]
+        },
+        {
+          "title": "Küpa pieimi inche ka newentukünowkülen eymi femechi",
+          "subtitle": "Quiero contarte que estoy resistiendo igual que tú",
+          "medium": "Textil",
+          "size": "90 × 70 × 2 cm",
+          "year": "2021",
+          "images": [
+            {
+              "src": "/img/antimonumento-11.jpg"
+            },
+            {
+              "src": "/img/antimonumento-12.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Estandarte manifiesto",
+          "medium": "Textil",
+          "size": "85 × 73 × 2 cm",
+          "year": "2022",
+          "images": [
+            {
+              "src": "/img/antimonumento-13.jpg"
+            },
+            {
+              "src": "/img/antimonumento-14.jpg"
+            },
+            {
+              "src": "/img/antimonumento-15.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Küpa pieimi inche ka newentukünowkülen eymi femechi",
+          "subtitle": "Quiero contarte que estoy resistiendo igual que tú",
+          "medium": "Video",
+          "duration": "5:39 min",
+          "year": "2023",
+          "video": "https://www.youtube.com/watch?v=sfC4N1uVgFg",
+          "video_label": "Ver video",
+          "images": [
+            {
+              "src": "/img/antimonumento-16.jpg"
+            },
+            {
+              "src": "/img/antimonumento-17.jpg"
+            }
+          ]
+        },
+        {
+          "title": "La fuente emana",
+          "medium": "Cestería sudanesa en yute, guipur y perlas de río",
+          "size": "44 × 44 × 33 cm",
+          "year": "2021",
+          "text": "La fuente emana es una escultura dedicada a cuatro mujeres mapuche, dos de las cuales sufrieron feminicidio empresarial por oponerse a la explotación de sus territorios por parte de hidroeléctricas extranjeras.\n\nLa pieza fue tejida utilizando fibras naturales y agua; su cenit está coronado con perlas de río y de cada extremo emergen sus nombres bordados: Macarena Valdés, Machi Francisca Linconao, Berta y Nicolasa Quintreman.",
+          "images": [
+            {
+              "src": "/img/antimonumento-18.jpg"
+            },
+            {
+              "src": "/img/antimonumento-19.jpg"
+            },
+            {
+              "src": "/img/antimonumento-20.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-21.jpg",
+              "cap": "Detalle"
+            },
+            {
+              "src": "/img/antimonumento-22.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "oh-menaje",
+      "title": "¡Oh-Menaje!",
+      "year": "2018",
+      "place": "Valdivia, Chile",
+      "cats": [
+        "escultura",
+        "video"
+      ],
+      "cover": "/img/oh-menaje-05.jpg",
+      "text": "¡Oh-Menaje! es una serie escultórica creada a partir de desechos de loza quebrada, porcelana heredada, cerámica de alta temperatura fallida, madera y bisutería ensamblada, que tras un proceso de recolección, selección y pegado, resulta en cinco piezas con diversas características: lámparas-macetero, azucareros de varios pisos y teteras disfuncionales.\n\n¡Oh-Menaje! propone un diálogo sobre el rol de los objetos de mesa en la historia de Latinoamérica: sus usos, desusos y anclajes en torno a lo femenino, y la posibilidad de subvertir este entendido, manifestándolo como una esfera en constante transformación. Así, al tomar como base estos objetos a partir de su quiebre y reconstrucción, la obra propone una nueva femineidad que asume además lo mestizo como condición ineludible de sí misma.",
+      "facts": "Exposición individual, Galería Barrios Bajos, Valdivia, 20 de julio al 9 de agosto de 2018.\n\nAfiches: Ricardo Mendoza y Rocío González. Registro de montaje: Francisco Ríos Anderson.",
+      "pieces": [
+        {
+          "title": "Quebrar un plato",
+          "medium": "Acción",
+          "year": "2018",
+          "video": "https://www.youtube.com/watch?v=I80KLw_J0ZM",
+          "video_label": "Ver registro",
+          "images": [
+            {
+              "src": "/img/oh-menaje-01.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-02.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-03.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Riesgo de lámpara",
+          "medium": "Escultura",
+          "size": "17 × 11 × 8 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-04.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Paloma",
+          "medium": "Escultura",
+          "size": "128 × 16 × 12 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-05.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Kitsch-sugi",
+          "medium": "Escultura",
+          "size": "28 × 9,5 × 9 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-06.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Jimmy",
+          "medium": "Escultura",
+          "size": "26 × 18 × 6 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-07.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Baba",
+          "medium": "Escultura",
+          "size": "24 × 17 × 11 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-08.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Refugio miriñaque",
+          "medium": "Escultura. Madera, tul, algodón, hilo, cables de cobre y ampolletas",
+          "size": "100 × 100 × 130 cm",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-09.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-10.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Registro de la exposición",
+          "medium": "Galería Barrios Bajos, Valdivia",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/oh-menaje-11.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-12.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-13.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-14.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-15.jpg"
+            },
+            {
+              "src": "/img/oh-menaje-16.jpg",
+              "cap": "Afiche"
+            },
+            {
+              "src": "/img/oh-menaje-17.jpg",
+              "cap": "Afiche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bodegon-en-cuerpo-propio",
+      "title": "Bodegón en cuerpo propio",
+      "year": "2011–2023",
+      "place": "Valdivia, Berlín y Ciudad de México",
+      "cats": [
+        "fotografia"
+      ],
+      "cover": "/img/bodegon-08.jpg",
+      "text": "Bodegón en cuerpo propio es una serie fotográfica que problematiza cómo las mujeres han sido mostradas a lo largo de la historia del arte. Esta idea se critica durante el proceso, en el que dialogo con las retratadas respecto a la objetualización histórica de nuestros cuerpos y las invito a que en conjunto construyamos su retrato. Así, utilizo ornamentos y cuerpos femeninos para crear imágenes que, al hacer uso de la propia subjetividad, rompen con los cánones impuestos externamente.\n\nCon el objetivo de exacerbar rasgos que van desde el fetiche sexual a la evocación de lo colonial, y en los que se refiere a espacios y campos relegados a lo femenino, como han sido históricamente la cocina o la costura, la obra desborda los límites que separan los géneros de la naturaleza muerta, el retrato y el autorretrato, para dar pie a imágenes que propician diálogos incómodos, aunque necesarios, respecto del significante mujer, sus representaciones, la autodeterminación, la reapropiación del cuerpo como un campo de batalla y su necesaria reconquista.",
+      "pieces": [
+        {
+          "title": "Objetos de represión 1 y 2",
+          "medium": "Fotografía digital",
+          "place": "Valdivia, Chile",
+          "year": "2011",
+          "images": [
+            {
+              "src": "/img/bodegon-01.jpg",
+              "cap": "Objetos de represión 1"
+            },
+            {
+              "src": "/img/bodegon-02.jpg",
+              "cap": "Objetos de represión 2"
+            },
+            {
+              "src": "/img/bodegon-03.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Dando frutos",
+          "medium": "Fotografía digital",
+          "place": "Berlín, Alemania",
+          "year": "2016",
+          "images": [
+            {
+              "src": "/img/bodegon-04.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Matriz",
+          "medium": "Fotografía digital",
+          "place": "Berlín, Alemania",
+          "year": "2016",
+          "images": [
+            {
+              "src": "/img/bodegon-05.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Fuga en lila",
+          "medium": "Fotografía digital",
+          "place": "Berlín, Alemania",
+          "year": "2016",
+          "images": [
+            {
+              "src": "/img/bodegon-06.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Puñado de azúcar morena",
+          "medium": "Fotografía digital",
+          "place": "Valdivia, Chile",
+          "year": "2018",
+          "images": [
+            {
+              "src": "/img/bodegon-07.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Bodegón en cuerpo propio",
+          "medium": "Fotografía digital",
+          "place": "Ciudad de México",
+          "year": "2021",
+          "images": [
+            {
+              "src": "/img/bodegon-08.jpg"
+            },
+            {
+              "src": "/img/bodegon-09.jpg"
+            },
+            {
+              "src": "/img/bodegon-10.jpg"
+            }
+          ]
+        },
+        {
+          "title": "Bodegón en cuerpo propio II",
+          "medium": "Fotografía digital",
+          "place": "Ciudad de México",
+          "year": "2023",
+          "images": [
+            {
+              "src": "/img/bodegon-11.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "la-trampa",
+      "title": "La Trampa",
+      "year": "2012–2014",
+      "place": "Valdivia, Chile",
+      "cats": [
+        "fotografia"
+      ],
+      "cover": "/img/la-trampa-07.jpg",
+      "text": "La Trampa es una serie fotográfica documental/ficción basada en el feminicidio de la estudiante Cynthia Cortés Pérez en la Universidad Austral de Chile el año 2003, y se configura como una obra en la que confluyen problemáticas en las que me he inspirado libremente.\n\nLa primera refiere a la desaparición de Cynthia, los siete días de búsqueda infructuosa por parte de la comunidad y la aparición de su cadáver en el campus universitario. Una segunda capa está ligada a mi biografía como estudiante y habitante de los mismos espacios donde apareció el cuerpo, y a mis reflexiones, diez años después, que versan sobre el feminicidio, su rápido olvido, el paisaje y lo que sobrevive a éste. Una última capa está ligada al escenario natural en que se circunscribe la tragedia, entendido como un lugar de riesgo, inquietante y sobrecogedor, sobre el que se han instalado otros cuerpos femeninos que rememoran al de Cynthia, otorgándole metafóricamente la posibilidad de una transformación mediante la conexión a los ciclos naturales de esa misma geografía.\n\nAsí, los tres universos que componen La Trampa presentan un relato ambiguo sobre la violencia de género, en el que la mirada del espectador, confrontada a grandes planos generales y cerrados primeros planos, va desde el observador pasivo al voyeur contemplativo.",
+      "facts": "Exposición individual, Galería Bech, Santiago de Chile, del 5 de septiembre al 3 de octubre de 2014.\n\nCatálogo: diagramación de Ignacio Traverso; diseño y fotografía de Rocío González Rosas.",
+      "pieces": [
+        {
+          "medium": "Fotografía digital",
+          "place": "Valdivia, Chile",
+          "year": "2012–2014",
+          "images": [
+            {
+              "src": "/img/la-trampa-01.jpg"
+            },
+            {
+              "src": "/img/la-trampa-02.jpg"
+            },
+            {
+              "src": "/img/la-trampa-03.jpg"
+            },
+            {
+              "src": "/img/la-trampa-04.jpg"
+            },
+            {
+              "src": "/img/la-trampa-05.jpg"
+            },
+            {
+              "src": "/img/la-trampa-06.jpg"
+            },
+            {
+              "src": "/img/la-trampa-07.jpg"
+            },
+            {
+              "src": "/img/la-trampa-08.jpg"
+            },
+            {
+              "src": "/img/la-trampa-09.jpg"
+            },
+            {
+              "src": "/img/la-trampa-10.jpg"
+            },
+            {
+              "src": "/img/la-trampa-11.jpg"
+            },
+            {
+              "src": "/img/la-trampa-12.jpg"
+            },
+            {
+              "src": "/img/la-trampa-13.jpg"
+            },
+            {
+              "src": "/img/la-trampa-14.jpg"
+            },
+            {
+              "src": "/img/la-trampa-15.jpg"
+            },
+            {
+              "src": "/img/la-trampa-16.jpg"
+            },
+            {
+              "src": "/img/la-trampa-17.jpg"
+            },
+            {
+              "src": "/img/la-trampa-18.jpg"
+            },
+            {
+              "src": "/img/la-trampa-19.gif",
+              "cap": "Catálogo, 2014"
+            },
+            {
+              "src": "/img/la-trampa-20.jpg",
+              "cap": "Invitación, Galería Bech"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "residencia-dagata",
+      "title": "Residencia D’Agata",
+      "year": "2012",
+      "place": "Valparaíso, Chile",
+      "cats": [
+        "fotografia"
+      ],
+      "cover": "/img/dagata-03.jpg",
+      "text": "Las fotografías realizadas durante la residencia guiada por el fotógrafo Antoine d’Agata en el Festival Internacional de Fotografía de Valparaíso 2012 se inspiraron en una serie de noticias sobre crímenes sexuales a jóvenes mujeres en la ciudad. A partir de un trabajo de campo en los lugares en que estos ataques ocurrieron, produje una obra de ficción conformada por retratos y autorretratos que se centró en feminicidios y violencia de género, temas que sigo abordando hasta la actualidad.",
+      "pieces": [
+        {
+          "title": "S.T.",
+          "medium": "Fotografía digital",
+          "place": "Valparaíso, Chile",
+          "year": "2012",
+          "images": [
+            {
+              "src": "/img/dagata-01.jpg"
+            },
+            {
+              "src": "/img/dagata-02.jpg"
+            },
+            {
+              "src": "/img/dagata-03.jpg"
+            },
+            {
+              "src": "/img/dagata-04.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

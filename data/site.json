@@ -1,0 +1,41 @@
+{
+  "lede_bold": "Artista visual chilena, vive y trabaja en Ciudad de México.",
+  "lede": "Construye imaginarios de resistencia frente a las simbologías coloniales y la violencia de género, desde la fotografía, el textil, la cerámica y el ensamblaje de loza y bisutería.",
+  "bio_intro": "Mi trabajo se centra en la construcción de imaginarios de resistencia que proponen un diálogo y una reparación metafórica respecto de simbologías coloniales y de violencia de género, y que abordo por medio de la fotografía, el textil, la cerámica y el ensamblaje de desechos de loza y bisutería.",
+  "bio": "En mi práctica, tanto lo manual como lo artesanal son ejes articuladores, pues me conectan con las memorias alojadas en las materialidades y las técnicas utilizadas. Ya sea durante el proceso de producción o cuando mis piezas se encuentran en contextos de exhibición, realizo jornadas de activación por medio de performances y encuentros de creación colectiva.",
+  "cv": [
+    {
+      "year": "2025",
+      "text": "exposición individual, La Verdi, Ciudad de México",
+      "project": "el-lenguaje-de-la-esquirla",
+      "label": "El lenguaje de la esquirla"
+    },
+    {
+      "year": "2022–hoy",
+      "text": "sesiones de bordado colectivo en México y Chile",
+      "project": "aqui-es-un-paisaje-que-viaja",
+      "label": "Aquí, es un paisaje que viaja"
+    },
+    {
+      "year": "2018",
+      "text": "exposición individual, Galería Barrios Bajos, Valdivia",
+      "project": "oh-menaje",
+      "label": "¡Oh-Menaje!"
+    },
+    {
+      "year": "2014",
+      "text": "exposición individual, Galería Bech, Santiago de Chile",
+      "project": "la-trampa",
+      "label": "La Trampa"
+    },
+    {
+      "year": "2012",
+      "text": "Festival Internacional de Fotografía de Valparaíso",
+      "project": "residencia-dagata",
+      "label": "Residencia con Antoine d’Agata"
+    }
+  ],
+  "email": "rociogonzalezrosas@gmail.com",
+  "instagram": "rokitsch",
+  "youtube": "https://www.youtube.com/@rociogonzalezrosas3289"
+}
