@@ -1,5 +1,6 @@
-# Editor del sitio (Pages CMS ¬∑ https://app.pagescms.org)
-# Define qu√© se puede editar y c√≥mo se ve el formulario. Roc√≠o no necesita tocar este archivo.
+# Editor del sitio (Pages CMS · https://app.pagescms.org)
+# Los campos «(English)» son la versión en inglés; si quedan vacíos, el sitio en inglés muestra el texto en español.
+# Los títulos de las obras no se traducen: se muestran en su idioma original en ambas versiones.
 
 media:
   input: img
@@ -21,51 +22,60 @@ content:
         list:
           collapsible:
             collapsed: true
-            summary: "{title} ¬∑ {year}"
+            summary: "{title} · {year}"
         fields:
           - name: title
-            label: T√≠tulo
+            label: Título
             type: string
             required: true
           - name: year
-            label: A√±os
+            label: Años
             type: string
-            description: "Ej. 2025 o 2020‚Äì2023"
+            description: "Ej. 2025 o 2020–2023"
           - name: place
             label: Lugar
             type: string
+          - name: place_en
+            label: Place (English)
+            type: string
           - name: cats
-            label: T√©cnicas
+            label: Técnicas
             type: select
-            description: "Define qu√© hilos de colores de la portada pasan por este proyecto."
+            description: "Define qué hilos de colores de la portada pasan por este proyecto."
             options:
               multiple: true
               values:
                 - { name: textil, label: Textil }
-                - { name: escultura, label: Escultura y cer√°mica }
-                - { name: fotografia, label: Fotograf√≠a }
-                - { name: instalacion, label: Instalaci√≥n }
-                - { name: video, label: Video y acci√≥n }
+                - { name: escultura, label: Escultura y cerámica }
+                - { name: fotografia, label: Fotografía }
+                - { name: instalacion, label: Instalación }
+                - { name: video, label: Video y acción }
           - name: cover
             label: Imagen de portada
             type: image
-            description: "Si la dejas vac√≠a se usa la primera imagen de la primera pieza."
+            description: "Si la dejas vacía se usa la primera imagen de la primera pieza."
           - name: text
             label: Texto del proyecto
             type: text
-            description: "Separa los p√°rrafos con una l√≠nea en blanco. El primero se muestra m√°s grande."
-          - name: facts
-            label: Exposici√≥n y cr√©ditos
+            description: "Separa los párrafos con una línea en blanco. El primero se muestra más grande."
+          - name: text_en
+            label: Project text (English)
             type: text
-            description: "Un dato por p√°rrafo (l√≠nea en blanco entre ellos)."
+          - name: facts
+            label: Exposición y créditos
+            type: text
+            description: "Un dato por párrafo (línea en blanco entre ellos)."
+          - name: facts_en
+            label: Exhibition and credits (English)
+            type: text
           - name: hidden
             label: Ocultar del sitio
             type: boolean
           - name: slug
-            label: Direcci√≥n web
+            label: Dirección web
             type: string
             pattern: "^[a-z0-9-]*$"
-            description: "Parte final del enlace. Puedes dejarlo vac√≠o: se crea desde el t√≠tulo. No lo cambies una vez publicado."
+            description: "Parte final del enlace. Puedes dejarlo vacío: se crea desde el título. No lo cambies una vez publicado."
           - name: pieces
             label: Piezas
             type: object
@@ -75,45 +85,58 @@ content:
                 summary: "{title} {year}"
             fields:
               - name: title
-                label: T√≠tulo de la pieza
+                label: Título de la pieza
                 type: string
-                description: "D√©jalo vac√≠o si el proyecto es una sola obra."
+                description: "Déjalo vacío si el proyecto es una sola obra."
               - name: subtitle
-                label: Subt√≠tulo o traducci√≥n
+                label: Subtítulo o traducción
                 type: string
               - name: medium
-                label: T√©cnica
+                label: Técnica
+                type: string
+              - name: medium_en
+                label: Medium (English)
                 type: string
               - name: size
                 label: Medidas
                 type: string
-                description: "Ej. 69 √ó 109 cm"
+                description: "Ej. 69 × 109 cm (igual en ambos idiomas)"
               - name: duration
-                label: Duraci√≥n
+                label: Duración
                 type: string
                 description: "Solo para video. Ej. 5:39 min"
               - name: place
                 label: Lugar
                 type: string
-                description: "Vac√≠o = usa el lugar del proyecto."
+                description: "Vacío = usa el lugar del proyecto."
+              - name: place_en
+                label: Place (English)
+                type: string
               - name: year
-                label: A√±o
+                label: Año
                 type: string
               - name: text
                 label: Texto de la pieza
                 type: text
+              - name: text_en
+                label: Piece text (English)
+                type: text
               - name: video
                 label: Video de YouTube
                 type: string
-                description: "Pega el enlace de YouTube. La primera imagen de la pieza ser√° la portada del video."
+                description: "Pega el enlace de YouTube. La primera imagen de la pieza será la portada del video."
               - name: video_label
-                label: Texto del bot√≥n de video
+                label: Texto del botón de video
                 type: string
                 description: "Ej. Ver video, Ver registro"
+              - name: video_label_en
+                label: Video button text (English)
+                type: string
+                description: "E.g. Watch video"
               - name: images
-                label: Im√°genes
+                label: Imágenes
                 type: object
-                description: "Arrastra para ordenar. Fotos JPG, idealmente de m√°ximo 2500 px de lado."
+                description: "Arrastra para ordenar. Fotos JPG, idealmente de máximo 2500 px de lado."
                 list:
                   collapsible:
                     collapsed: true
@@ -127,6 +150,10 @@ content:
                     label: Pie de foto
                     type: string
                     description: "Opcional. Ej. Detalle"
+                  - name: cap_en
+                    label: Caption (English)
+                    type: string
+                    description: "Optional. E.g. Detail"
 
   - name: sitio
     label: Bio y contacto
@@ -137,36 +164,55 @@ content:
       - name: lede_bold
         label: "Portada: primera frase (en negrita)"
         type: string
+      - name: lede_bold_en
+        label: "Home: first sentence, bold (English)"
+        type: string
       - name: lede
-        label: "Portada: descripci√≥n"
+        label: "Portada: descripción"
+        type: text
+      - name: lede_en
+        label: "Home: description (English)"
         type: text
       - name: bio_intro
-        label: "Bio: p√°rrafo destacado"
+        label: "Bio: párrafo destacado"
+        type: text
+      - name: bio_intro_en
+        label: "Bio: highlighted paragraph (English)"
         type: text
       - name: bio
         label: "Bio: resto del texto"
         type: text
-        description: "Separa los p√°rrafos con una l√≠nea en blanco."
+        description: "Separa los párrafos con una línea en blanco."
+      - name: bio_en
+        label: "Bio: rest of the text (English)"
+        type: text
       - name: cv
         label: Exposiciones y proyectos
         type: object
         list:
           collapsible:
             collapsed: true
-            summary: "{year} ¬∑ {label}"
+            summary: "{year} · {label}"
         fields:
           - name: year
-            label: A√±o
+            label: Año
             type: string
+          - name: year_en
+            label: Year (English)
+            type: string
+            description: "Solo si cambia, ej. 2022–present"
           - name: label
-            label: T√≠tulo
+            label: Título
             type: string
           - name: text
             label: Detalle
             type: string
-            description: "Ej. exposici√≥n individual, Galer√≠a Bech, Santiago"
+            description: "Ej. exposición individual, Galería Bech, Santiago"
+          - name: text_en
+            label: Detail (English)
+            type: string
           - name: project
-            label: Enlazar al proyecto (direcci√≥n web)
+            label: Enlazar al proyecto (dirección web)
             type: string
             description: "Opcional. Ej. la-trampa"
       - name: email
