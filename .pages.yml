@@ -186,6 +186,17 @@ content:
       - name: bio_en
         label: "Bio: rest of the text (English)"
         type: text
+      - name: bio_photo
+        label: "Bio: foto"
+        type: image
+        description: "Opcional. Sube una foto (JPG). Para quitarla, borra la imagen y guarda."
+      - name: bio_photo_caption
+        label: "Bio: pie de foto"
+        type: string
+        description: "Opcional. Ej. Rocío en su taller, Ciudad de México, 2025"
+      - name: bio_photo_caption_en
+        label: "Bio: photo caption (English)"
+        type: string
       - name: cv
         label: Exposiciones y proyectos
         type: object
