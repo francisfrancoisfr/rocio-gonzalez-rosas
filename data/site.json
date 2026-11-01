@@ -1,51 +1,51 @@
 {
   "lede_bold": "Artista visual chilena, vive y trabaja en Ciudad de México.",
+  "lede_bold_en": "Chilean visual artist based in Mexico City.",
   "lede": "Construye imaginarios de resistencia frente a las simbologías coloniales y la violencia de género, desde la fotografía, el textil, la cerámica y el ensamblaje de loza y bisutería.",
+  "lede_en": "She builds imaginaries of resistance in response to colonial symbolism and gender violence, through photography, textile, ceramics and the assemblage of crockery and costume jewellery.",
   "bio_intro": "Mi trabajo se centra en la construcción de imaginarios de resistencia que proponen un diálogo y una reparación metafórica respecto de simbologías coloniales y de violencia de género, y que abordo por medio de la fotografía, el textil, la cerámica y el ensamblaje de desechos de loza y bisutería.",
+  "bio_intro_en": "My work focuses on building imaginaries of resistance that open a dialogue with, and offer a metaphorical repair of, colonial symbolism and gender violence, which I approach through photography, textile, ceramics and the assemblage of discarded crockery and costume jewellery.",
   "bio": "En mi práctica, tanto lo manual como lo artesanal son ejes articuladores, pues me conectan con las memorias alojadas en las materialidades y las técnicas utilizadas. Ya sea durante el proceso de producción o cuando mis piezas se encuentran en contextos de exhibición, realizo jornadas de activación por medio de performances y encuentros de creación colectiva.",
+  "bio_en": "In my practice, both handwork and craft are central, because they connect me with the memories held in the materials and techniques I use. Whether during production or when my pieces are on show, I hold activation sessions through performances and collective creation gatherings.",
   "cv": [
     {
       "year": "2025",
-      "text": "exposición individual, La Verdi, Ciudad de México",
-      "project": "el-lenguaje-de-la-esquirla",
       "label": "El lenguaje de la esquirla",
-      "text_en": "solo exhibition, La Verdi, Mexico City"
+      "text": "exposición individual, La Verdi, Ciudad de México",
+      "text_en": "solo exhibition, La Verdi, Mexico City",
+      "project": "el-lenguaje-de-la-esquirla"
     },
     {
       "year": "2022–hoy",
-      "text": "sesiones de bordado colectivo en México y Chile",
-      "project": "aqui-es-un-paisaje-que-viaja",
+      "year_en": "2022–present",
       "label": "Aquí, es un paisaje que viaja",
+      "text": "sesiones de bordado colectivo en México y Chile",
       "text_en": "collective embroidery sessions in Mexico and Chile",
-      "year_en": "2022–present"
+      "project": "aqui-es-un-paisaje-que-viaja"
     },
     {
       "year": "2018",
-      "text": "exposición individual, Galería Barrios Bajos, Valdivia",
-      "project": "oh-menaje",
       "label": "¡Oh-Menaje!",
-      "text_en": "solo exhibition, Galería Barrios Bajos, Valdivia"
+      "text": "exposición individual, Galería Barrios Bajos, Valdivia",
+      "text_en": "solo exhibition, Galería Barrios Bajos, Valdivia",
+      "project": "oh-menaje"
     },
     {
       "year": "2014",
-      "text": "exposición individual, Galería Bech, Santiago de Chile",
-      "project": "la-trampa",
       "label": "La Trampa",
-      "text_en": "solo exhibition, Galería Bech, Santiago, Chile"
+      "text": "exposición individual, Galería Bech, Santiago de Chile",
+      "text_en": "solo exhibition, Galería Bech, Santiago, Chile",
+      "project": "la-trampa"
     },
     {
       "year": "2012",
-      "text": "Festival Internacional de Fotografía de Valparaíso",
-      "project": "residencia-dagata",
       "label": "Residencia con Antoine d’Agata",
-      "text_en": "Valparaíso International Photography Festival"
+      "text": "Festival Internacional de Fotografía de Valparaíso",
+      "text_en": "Valparaíso International Photography Festival",
+      "project": "residencia-dagata"
     }
   ],
-  "email": "rociogonzalezrosas@gmail.com",
+  "email": "rociogonzalezrosas [arroba] gmail.com",
   "instagram": "rokitsch",
-  "youtube": "https://www.youtube.com/@rociogonzalezrosas3289",
-  "lede_bold_en": "Chilean visual artist based in Mexico City.",
-  "lede_en": "She builds imaginaries of resistance in response to colonial symbolism and gender violence, through photography, textile, ceramics and the assemblage of crockery and costume jewellery.",
-  "bio_intro_en": "My work focuses on building imaginaries of resistance that open a dialogue with, and offer a metaphorical repair of, colonial symbolism and gender violence, which I approach through photography, textile, ceramics and the assemblage of discarded crockery and costume jewellery.",
-  "bio_en": "In my practice, both handwork and craft are central, because they connect me with the memories held in the materials and techniques I use. Whether during production or when my pieces are on show, I hold activation sessions through performances and collective creation gatherings."
+  "youtube": "https://www.youtube.com/@rociogonzalezrosas3289"
 }
