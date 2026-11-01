@@ -531,6 +531,10 @@
           ${paras(SITE.bio).map((t) => `<p>${esc(t)}</p>`).join("")}
         </div>
         <div>
+          ${SITE.bio_photo ? `<figure class="bio-photo">
+            ${imgTag(SITE.bio_photo, 1000, `alt="${esc(NAME)}" loading="eager"`)}
+            ${SITE.bio_photo_caption ? `<figcaption>${esc(SITE.bio_photo_caption)}</figcaption>` : ""}
+          </figure>` : ""}
           ${cv ? `<h2>${t("exhibitions")}</h2><ul class="cv">${cv}</ul>` : ""}
         </div>
       </section>`;
@@ -542,9 +546,19 @@
     if (ig) links.push(`<a href="https://www.instagram.com/${esc(ig)}/" target="_blank" rel="noopener">Instagram @${esc(ig)}</a>`);
     if (SITE.youtube) links.push(`<a href="${esc(SITE.youtube)}" target="_blank" rel="noopener">YouTube</a>`);
     document.getElementById("contact-links").innerHTML = `
-      ${SITE.email ? `<p class="addr"><a href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a></p>` : ""}
+      ${SITE.email ? `<p class="addr"><a href="#contacto" data-mail="${esc(SITE.email)}">${esc(SITE.email)}</a></p>` : ""}
       <p>${links.join(" · ")}</p>`;
   }
+
+  // The address can be written as "name [arroba] gmail.com" so it isn't harvested from the page;
+  // the real address is only put together when someone clicks it.
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("[data-mail]");
+    if (!a) return;
+    e.preventDefault();
+    const addr = a.dataset.mail.replace(/\s*[\[(]\s*(arroba|at)\s*[\])]\s*/i, "@").replace(/\s+/g, "");
+    location.href = "mailto:" + addr;
+  });
 
   function renderNotFound() {
     page = "project";
@@ -652,7 +666,7 @@
   function localize() {
     const pick = (o, k) => (LANG === "en" && o[k + "_en"]) || o[k];
     SITE = { ...RAW_SITE };
-    ["lede_bold", "lede", "bio_intro", "bio"].forEach((k) => (SITE[k] = pick(RAW_SITE, k)));
+    ["lede_bold", "lede", "bio_intro", "bio", "bio_photo_caption"].forEach((k) => (SITE[k] = pick(RAW_SITE, k)));
     SITE.cv = (RAW_SITE.cv || []).map((c) => ({ ...c, year: pick(c, "year"), label: pick(c, "label"), text: pick(c, "text") }));
     PROJECTS = RAW_PROJECTS.map((p) => ({
       ...p,
