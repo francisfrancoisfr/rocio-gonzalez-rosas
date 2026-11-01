@@ -8,42 +8,48 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..700,0..100,0..1;1,9..144,300..700,0..100,0..1&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=11">
+<link rel="stylesheet" href="styles.css?v=18">
 </head>
 <body>
-<a class="skip" href="#main">Saltar al contenido</a>
+<a class="skip" href="#main" data-i18n="skip">Saltar al contenido</a>
 
 <header class="bar">
   <a class="bar-name" href="#inicio">Rocío González Rosas</a>
-  <nav aria-label="Principal">
-    <a href="#inicio" data-nav="obra">Obra</a>
-    <a href="#indice" data-nav="indice">Índice</a>
-    <a href="#bio" data-nav="bio">Bio</a>
-    <a href="#contacto">Contacto</a>
-  </nav>
+  <div class="bar-right">
+    <nav aria-label="Principal" data-i18n-aria="navAria">
+      <a href="#inicio" data-nav="obra" data-i18n="work">Obra</a>
+      <a href="#indice" data-nav="indice" data-i18n="index">Índice</a>
+      <a href="#bio" data-nav="bio" data-i18n="bio">Bio</a>
+      <a href="#contacto" data-i18n="contact">Contacto</a>
+    </nav>
+    <div class="lang" role="group" aria-label="Idioma" data-i18n-aria="langAria">
+      <button type="button" data-lang="es" lang="es" aria-pressed="true">ES</button>
+      <button type="button" data-lang="en" lang="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
 </header>
 
 <main id="main" tabindex="-1"></main>
 
 <footer class="foot" id="contacto">
   <div class="foot-grid">
-    <h2>Contacto</h2>
+    <h2 data-i18n="contact">Contacto</h2>
     <div id="contact-links"></div>
   </div>
-  <p class="fine">© Rocío González Rosas · Todas las imágenes © la artista</p>
+  <p class="fine" data-i18n="rights">© Rocío González Rosas · Todas las imágenes © la artista</p>
 </footer>
 
-<dialog class="lightbox" aria-label="Imagen ampliada">
-  <button class="lb-close" aria-label="Cerrar">Cerrar ×</button>
-  <button class="lb-prev" aria-label="Imagen anterior">←</button>
+<dialog class="lightbox" aria-label="Imagen ampliada" data-i18n-aria="lbAria">
+  <button class="lb-close" aria-label="Cerrar" data-i18n-aria="closeAria"><span data-i18n="close">Cerrar ×</span></button>
+  <button class="lb-prev" aria-label="Imagen anterior" data-i18n-aria="prevImg">←</button>
   <figure>
     <img alt="">
     <figcaption></figcaption>
   </figure>
-  <button class="lb-next" aria-label="Imagen siguiente">→</button>
+  <button class="lb-next" aria-label="Imagen siguiente" data-i18n-aria="nextImg">→</button>
 </dialog>
 
-<script src="data/dims.js?v=11"></script>
-<script src="app.js?v=11"></script>
+<script src="data/dims.js?v=18"></script>
+<script src="app.js?v=18"></script>
 </body>
 </html>
