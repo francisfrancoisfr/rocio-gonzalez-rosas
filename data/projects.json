@@ -25,13 +25,17 @@
             },
             {
               "src": "/img/esquirla-02.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/esquirla-03.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             }
-          ]
+          ],
+          "text_en": "This piece condenses autobiographical elements and themes that run through all of my work. On one hand, it shows a version of the Andes inspired by my journeys back and forth to Chile, my country of origin. It was embroidered on a jute sack, without a pre-drawn pattern, using threads and wools of many colours and textures added gradually, with colour combinations chosen intuitively during the process. The jute sack also refers to the Chilean arpillera tradition, a popular art form tied to my country’s historical memory.\n\nOn the other hand, the mountain range represents fertile nature and the spiritual and energetic riches of its geography, which in turn are plundered for profit, stripping it of its ritual importance for the ancestral cultures that have grown up at its foothills, have honoured it for centuries and have marvelled at its colossal presence.",
+          "medium_en": "Embroidery on jute sack"
         },
         {
           "title": "Al interior de las cuevas la luz cae vertical",
@@ -43,7 +47,9 @@
             {
               "src": "/img/esquirla-04.jpg"
             }
-          ]
+          ],
+          "text_en": "A small embroidery that works as a reverse shot to Voltajes de la cordillera. While the larger piece shows the Andean peaks rising upward, this smaller one has pointed strands hanging down from its top edge. Here the subject is the life hidden inside the mountains, with its stalactites, glints and crystals.",
+          "medium_en": "Embroidery on jute sack"
         },
         {
           "title": "Vienen y van: se tuercen, se enredan, nunca terminan ni comienzan",
@@ -55,7 +61,9 @@
             {
               "src": "/img/esquirla-05.jpg"
             }
-          ]
+          ],
+          "text_en": "An embroidery made almost automatically: a kind of textile improvisation in which I have tried to represent the energies, dimensions and planes that escape the human eye but are nonetheless part of our universe and coexist with us. The piece also works as a thematic link that leads into the installation Sistemas de invocación.",
+          "medium_en": "Embroidery on jute sack"
         },
         {
           "title": "Sistemas de invocación",
@@ -79,7 +87,9 @@
             {
               "src": "/img/esquirla-10.jpg"
             }
-          ]
+          ],
+          "text_en": "Sistemas de invocación is an installation made up of a variety of “textile connectors”, made with a spiral weaving technique over tubular and coiled electrical cable conduits and joined at their ends to rock, mineral and floral materials. This mix of organic and inorganic elements refers to the global capitalism that rests on the indiscriminate exploitation of natural resources and has broken ancestral knowledge and our spiritual relationship with ecosystems.\n\nFor that reason, the work is presented as a portal to other worlds, framed between reflective sheets that create a mirror image, extend the length of the “connectors” and make communication with omnipresent forces possible. The installation thus becomes a system for invoking lost knowledge that asks to be recovered, drawing its strength from the energies and properties of stones; from spiral weaving over tubes inspired by Mapuche trutrukas; and from spiral forms that connect with the past and extend into the future.",
+          "medium_en": "Installation"
         },
         {
           "title": "Componiendo la esquirla",
@@ -92,9 +102,15 @@
             {
               "src": "/img/esquirla-11.jpg"
             }
-          ]
+          ],
+          "text_en": "A collective radio session held at La Verdi to close the exhibition.",
+          "medium_en": "Collective radio session with Radio Mudasabana",
+          "video_label_en": "Listen to an excerpt"
         }
-      ]
+      ],
+      "text_en": "El lenguaje de la esquirla is a textile exploration that approaches the Andes and other mineral deposits from different perspectives, conceiving of them as wombs that hold materials, memories and inherited knowledge.",
+      "facts_en": "Solo exhibition, La Verdi, Santa María la Ribera, Mexico City, 2025.",
+      "place_en": "Mexico City"
     },
     {
       "slug": "aqui-es-un-paisaje-que-viaja",
@@ -151,31 +167,38 @@
             },
             {
               "src": "/img/paisaje-13.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-14.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-15.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-16.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-17.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-18.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-19.jpg",
-              "cap": "Sesión de bordado colectivo"
+              "cap": "Sesión de bordado colectivo",
+              "cap_en": "Collective embroidery session"
             },
             {
               "src": "/img/paisaje-20.jpg"
@@ -192,9 +215,13 @@
             {
               "src": "/img/paisaje-24.jpg"
             }
-          ]
+          ],
+          "medium_en": "Textile, collective embroidery on organza",
+          "place_en": "Mexico City"
         }
-      ]
+      ],
+      "text_en": "Aquí, es un paisaje que viaja is a collaborative, process-based work begun in late 2022 and still ongoing, in which, guided by the ideas of “flow state” and community, a shared textile is built through a series of collective embroidery sessions.\n\nIn these sessions no patterns are transferred onto the fabric and there are no preconceived ideas about what to depict; instead, they explore improvisation, the non-figurative and being together.\n\nTo date, many group embroidery sessions have taken place in both Mexico and Chile, with the aim of sharing and saturating the fabric.",
+      "place_en": "Mexico and Chile"
     },
     {
       "slug": "antimonumento",
@@ -220,41 +247,51 @@
             },
             {
               "src": "/img/antimonumento-02.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-03.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-04.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-05.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-06.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-07.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-08.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-09.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-10.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             }
-          ]
+          ],
+          "medium_en": "Ceramic sculpture"
         },
         {
           "title": "Küpa pieimi inche ka newentukünowkülen eymi femechi",
@@ -269,7 +306,8 @@
             {
               "src": "/img/antimonumento-12.jpg"
             }
-          ]
+          ],
+          "medium_en": "Textile"
         },
         {
           "title": "Estandarte manifiesto",
@@ -286,7 +324,8 @@
             {
               "src": "/img/antimonumento-15.jpg"
             }
-          ]
+          ],
+          "medium_en": "Textile"
         },
         {
           "title": "Küpa pieimi inche ka newentukünowkülen eymi femechi",
@@ -303,7 +342,9 @@
             {
               "src": "/img/antimonumento-17.jpg"
             }
-          ]
+          ],
+          "medium_en": "Video",
+          "video_label_en": "Watch video"
         },
         {
           "title": "La fuente emana",
@@ -320,18 +361,24 @@
             },
             {
               "src": "/img/antimonumento-20.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-21.jpg",
-              "cap": "Detalle"
+              "cap": "Detalle",
+              "cap_en": "Detail"
             },
             {
               "src": "/img/antimonumento-22.jpg"
             }
-          ]
+          ],
+          "text_en": "La fuente emana is a sculpture dedicated to four Mapuche women, two of whom were victims of corporate femicide for opposing the exploitation of their territories by foreign hydroelectric companies.\n\nThe piece was woven using natural fibres and water; its top is crowned with river pearls, and from each corner emerge their embroidered names: Macarena Valdés, Machi Francisca Linconao, Berta and Nicolasa Quintreman.",
+          "medium_en": "Sudanese coiled basketry in jute, guipure lace and river pearls"
         }
-      ]
+      ],
+      "text_en": "Antimonumento is a body of work made between 2020 and 2022 that combines ceramic and textile pieces, through which I address the many forms of violence that threaten women, dissident communities, Indigenous peoples and natural environments in Latin America.\n\nThese pieces come from my own subjectivity and are freely inspired by slogans, images, graffiti and events of recent years in Mexico and Chile, in contexts of social unrest. Through them I take on concepts such as ecocide and corporate femicide symbolically, with a baroque aesthetic that borrows from colonial architecture, Mapudungun, graffiti on monuments and the aesthetics of war, to propose responses to the many scourges affecting thousands of communities in the colonised territories of our continent.",
+      "place_en": "Mexico City"
     },
     {
       "slug": "oh-menaje",
@@ -362,7 +409,9 @@
             {
               "src": "/img/oh-menaje-03.jpg"
             }
-          ]
+          ],
+          "medium_en": "Action",
+          "video_label_en": "Watch the action"
         },
         {
           "title": "Riesgo de lámpara",
@@ -373,7 +422,8 @@
             {
               "src": "/img/oh-menaje-04.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture"
         },
         {
           "title": "Paloma",
@@ -384,7 +434,8 @@
             {
               "src": "/img/oh-menaje-05.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture"
         },
         {
           "title": "Kitsch-sugi",
@@ -395,7 +446,8 @@
             {
               "src": "/img/oh-menaje-06.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture"
         },
         {
           "title": "Jimmy",
@@ -406,7 +458,8 @@
             {
               "src": "/img/oh-menaje-07.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture"
         },
         {
           "title": "Baba",
@@ -417,7 +470,8 @@
             {
               "src": "/img/oh-menaje-08.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture"
         },
         {
           "title": "Refugio miriñaque",
@@ -431,7 +485,8 @@
             {
               "src": "/img/oh-menaje-10.jpg"
             }
-          ]
+          ],
+          "medium_en": "Sculpture. Wood, tulle, cotton, thread, copper wire and light bulbs"
         },
         {
           "title": "Registro de la exposición",
@@ -455,15 +510,19 @@
             },
             {
               "src": "/img/oh-menaje-16.jpg",
-              "cap": "Afiche"
+              "cap": "Afiche",
+              "cap_en": "Poster"
             },
             {
               "src": "/img/oh-menaje-17.jpg",
-              "cap": "Afiche"
+              "cap": "Afiche",
+              "cap_en": "Poster"
             }
           ]
         }
-      ]
+      ],
+      "text_en": "¡Oh-Menaje! is a sculptural series made from discarded broken crockery, inherited porcelain, failed high-fire ceramics, wood and assembled costume jewellery. Through a process of collecting, selecting and gluing, it results in five pieces of different kinds: lamp-planters, multi-tiered sugar bowls and dysfunctional teapots.\n\n¡Oh-Menaje! opens a dialogue about the role of tableware in Latin American history: its uses, disuses and ties to the feminine, and the possibility of subverting that understanding by presenting it as a sphere in constant transformation. Taking these objects as its starting point, through their breaking and reconstruction, the work proposes a new femininity that also embraces mestizaje as an inescapable condition of itself.",
+      "facts_en": "Solo exhibition, Galería Barrios Bajos, Valdivia, 20 July – 9 August 2018.\n\nPosters: Ricardo Mendoza and Rocío González. Installation photographs: Francisco Ríos Anderson."
     },
     {
       "slug": "bodegon-en-cuerpo-propio",
@@ -484,16 +543,19 @@
           "images": [
             {
               "src": "/img/bodegon-01.jpg",
-              "cap": "Objetos de represión 1"
+              "cap": "Objetos de represión 1",
+              "cap_en": "Objects of Repression 1"
             },
             {
               "src": "/img/bodegon-02.jpg",
-              "cap": "Objetos de represión 2"
+              "cap": "Objetos de represión 2",
+              "cap_en": "Objects of Repression 2"
             },
             {
               "src": "/img/bodegon-03.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography"
         },
         {
           "title": "Dando frutos",
@@ -504,7 +566,9 @@
             {
               "src": "/img/bodegon-04.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography",
+          "place_en": "Berlin, Germany"
         },
         {
           "title": "Matriz",
@@ -515,7 +579,9 @@
             {
               "src": "/img/bodegon-05.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography",
+          "place_en": "Berlin, Germany"
         },
         {
           "title": "Fuga en lila",
@@ -526,7 +592,9 @@
             {
               "src": "/img/bodegon-06.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography",
+          "place_en": "Berlin, Germany"
         },
         {
           "title": "Puñado de azúcar morena",
@@ -537,7 +605,8 @@
             {
               "src": "/img/bodegon-07.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography"
         },
         {
           "title": "Bodegón en cuerpo propio",
@@ -554,7 +623,9 @@
             {
               "src": "/img/bodegon-10.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography",
+          "place_en": "Mexico City"
         },
         {
           "title": "Bodegón en cuerpo propio II",
@@ -565,9 +636,13 @@
             {
               "src": "/img/bodegon-11.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography",
+          "place_en": "Mexico City"
         }
-      ]
+      ],
+      "text_en": "Bodegón en cuerpo propio is a photographic series that questions how women have been portrayed throughout art history. That critique happens during the process itself: I talk with the women portrayed about the historical objectification of our bodies and invite them to build their portrait together with me. I use ornaments and female bodies to create images that, by drawing on our own subjectivity, break with externally imposed canons.\n\nAiming to heighten traits that range from sexual fetish to the evocation of the colonial, and drawing on spaces and fields historically assigned to women, such as the kitchen or sewing, the work overflows the boundaries between still life, portrait and self-portrait. It gives rise to images that prompt uncomfortable yet necessary conversations about the signifier “woman”, its representations, self-determination, the reclaiming of the body as a battlefield and its necessary reconquest.",
+      "place_en": "Valdivia, Berlin and Mexico City"
     },
     {
       "slug": "la-trampa",
@@ -642,15 +717,20 @@
             },
             {
               "src": "/img/la-trampa-19.gif",
-              "cap": "Catálogo, 2014"
+              "cap": "Catálogo, 2014",
+              "cap_en": "Catalogue, 2014"
             },
             {
               "src": "/img/la-trampa-20.jpg",
-              "cap": "Invitación, Galería Bech"
+              "cap": "Invitación, Galería Bech",
+              "cap_en": "Invitation, Galería Bech"
             }
-          ]
+          ],
+          "medium_en": "Digital photography"
         }
-      ]
+      ],
+      "text_en": "La Trampa is a documentary/fiction photographic series based on the femicide of the student Cynthia Cortés Pérez at the Universidad Austral de Chile in 2003. It brings together several concerns from which I drew freely.\n\nThe first is Cynthia’s disappearance, the seven days of fruitless searching by the community and the discovery of her body on the university campus. A second layer comes from my own biography as a student and resident of the same places where her body was found, and from my reflections ten years later on femicide, how quickly it is forgotten, the landscape and what survives it. A final layer is the natural setting of the tragedy, understood as a place of risk, unsettling and awe-inspiring, onto which I placed other female bodies that recall Cynthia’s, metaphorically granting her the possibility of transformation through a connection to the natural cycles of that same geography.\n\nThe three worlds that make up La Trampa thus offer an ambiguous account of gender violence, in which the viewer’s gaze, confronted with wide shots and tight close-ups, shifts from passive observer to contemplative voyeur.",
+      "facts_en": "Solo exhibition, Galería Bech, Santiago, Chile, 5 September – 3 October 2014.\n\nCatalogue: layout by Ignacio Traverso; design and photography by Rocío González Rosas."
     },
     {
       "slug": "residencia-dagata",
@@ -681,9 +761,11 @@
             {
               "src": "/img/dagata-04.jpg"
             }
-          ]
+          ],
+          "medium_en": "Digital photography"
         }
-      ]
+      ],
+      "text_en": "The photographs made during the residency led by photographer Antoine d’Agata at the 2012 Valparaíso International Photography Festival were inspired by a series of news reports about sexual crimes against young women in the city. Based on fieldwork at the places where these attacks happened, I produced a work of fiction made up of portraits and self-portraits focused on femicide and gender violence, themes I continue to address today."
     }
   ]
 }

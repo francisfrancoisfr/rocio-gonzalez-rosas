@@ -8,34 +8,44 @@
       "year": "2025",
       "text": "exposición individual, La Verdi, Ciudad de México",
       "project": "el-lenguaje-de-la-esquirla",
-      "label": "El lenguaje de la esquirla"
+      "label": "El lenguaje de la esquirla",
+      "text_en": "solo exhibition, La Verdi, Mexico City"
     },
     {
       "year": "2022–hoy",
       "text": "sesiones de bordado colectivo en México y Chile",
       "project": "aqui-es-un-paisaje-que-viaja",
-      "label": "Aquí, es un paisaje que viaja"
+      "label": "Aquí, es un paisaje que viaja",
+      "text_en": "collective embroidery sessions in Mexico and Chile",
+      "year_en": "2022–present"
     },
     {
       "year": "2018",
       "text": "exposición individual, Galería Barrios Bajos, Valdivia",
       "project": "oh-menaje",
-      "label": "¡Oh-Menaje!"
+      "label": "¡Oh-Menaje!",
+      "text_en": "solo exhibition, Galería Barrios Bajos, Valdivia"
     },
     {
       "year": "2014",
       "text": "exposición individual, Galería Bech, Santiago de Chile",
       "project": "la-trampa",
-      "label": "La Trampa"
+      "label": "La Trampa",
+      "text_en": "solo exhibition, Galería Bech, Santiago, Chile"
     },
     {
       "year": "2012",
       "text": "Festival Internacional de Fotografía de Valparaíso",
       "project": "residencia-dagata",
-      "label": "Residencia con Antoine d’Agata"
+      "label": "Residencia con Antoine d’Agata",
+      "text_en": "Valparaíso International Photography Festival"
     }
   ],
   "email": "rociogonzalezrosas@gmail.com",
   "instagram": "rokitsch",
-  "youtube": "https://www.youtube.com/@rociogonzalezrosas3289"
+  "youtube": "https://www.youtube.com/@rociogonzalezrosas3289",
+  "lede_bold_en": "Chilean visual artist based in Mexico City.",
+  "lede_en": "She builds imaginaries of resistance in response to colonial symbolism and gender violence, through photography, textile, ceramics and the assemblage of crockery and costume jewellery.",
+  "bio_intro_en": "My work focuses on building imaginaries of resistance that open a dialogue with, and offer a metaphorical repair of, colonial symbolism and gender violence, which I approach through photography, textile, ceramics and the assemblage of discarded crockery and costume jewellery.",
+  "bio_en": "In my practice, both handwork and craft are central, because they connect me with the memories held in the materials and techniques I use. Whether during production or when my pieces are on show, I hold activation sessions through performances and collective creation gatherings."
 }
